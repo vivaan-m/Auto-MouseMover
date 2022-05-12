@@ -16,3 +16,5 @@ This python script is only for educational purposes. If you use it for any activ
 - Can change the Timing gaps 
 - Can limit the Area of movement
 - Can change scrolling limit
+
+## Pre-Configured for VS Code
