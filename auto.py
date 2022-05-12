@@ -45,13 +45,6 @@ try:
 
         else:
             print(pyautogui.position())
-
-           
-
-
-
-
-
-
+            
 except KeyboardInterrupt:
     print('\n')
