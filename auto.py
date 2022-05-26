@@ -33,6 +33,7 @@ try:
             pyautogui.moveTo(x=mouseX,y=mouseY)
             pyautogui.click()
             if Counter==5:
+                pyautogui.hotkey('ctrl', 's')
                 print("changing file")
                 Counter = 0
                 mouseX = random.randint(59,86)
