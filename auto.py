@@ -1,6 +1,5 @@
 #! python3
 
-from typing import Counter
 import pyautogui,time,random
 
 
